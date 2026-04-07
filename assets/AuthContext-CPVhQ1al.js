@@ -1,0 +1,1 @@
+import{i as e,r as t,t as n}from"./jsx-runtime-9SYK70Sv.js";import"./supabase-HndOooUX.js";var r=e(t(),1);n();var i=(0,r.createContext)(null),a=()=>{let e=(0,r.useContext)(i);if(!e)throw Error(`useAuth deve ser usado dentro de AuthProvider`);return e};export{a as t};
