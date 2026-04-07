@@ -1,1 +1,0 @@
-import{d as e,l as t,t as n}from"./jsx-runtime-D2rTi46t.js";var r=e(t(),1);n();var i=(0,r.createContext)(null),a=()=>{let e=(0,r.useContext)(i);if(!e)throw Error(`useCart deve ser usado dentro de CartProvider`);return e};export{a as t};
